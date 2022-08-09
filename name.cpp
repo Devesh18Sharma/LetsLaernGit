@@ -6,7 +6,8 @@ int main(){
     string names;
     cout<<"Enter the names"<<endl;
     cin>>names;
-    cout<<names;
+    cout<<"Your name is "<<names;
+    
 
 
 }
